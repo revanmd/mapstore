@@ -1,0 +1,25 @@
+<layer>
+  <name>clip_vektor_penelitian</name>
+  <id>LayerInfoImpl--1a65d34c:183e0340c0a:-16cf</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--1a65d34c:183e173a327:-11a8</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl--1a65d34c:183e173a327:-11a8</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--71a26a11:183ce44dbb5:585</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--1a65d34c:183e0340c0a:-16d0</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-10-16 09:53:25.17 UTC</dateCreated>
+  <dateModified>2022-10-16 15:43:27.374 UTC</dateModified>
+</layer>

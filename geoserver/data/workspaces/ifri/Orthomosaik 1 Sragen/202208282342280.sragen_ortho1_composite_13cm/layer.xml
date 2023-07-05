@@ -1,0 +1,16 @@
+<layer>
+  <name>202208282342280.sragen_ortho1_composite_13cm</name>
+  <id>LayerInfoImpl--706de78b:183cb8691d3:-7fef</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe2</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl--706de78b:183cb8691d3:-7ff0</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-10-12 09:38:11.510 UTC</dateCreated>
+</layer>

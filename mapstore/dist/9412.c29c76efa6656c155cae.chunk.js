@@ -1,0 +1,1 @@
+(self.webpackChunkmapstore2=self.webpackChunkmapstore2||[]).push([[9412],{819412:(e,r,t)=>{var o=t(798098);e.exports=function(e,r){var t=new o.io.GeoJSONReader,i=t.read(JSON.stringify(e.geometry)),n=t.read(JSON.stringify(r.geometry)),p=i.union(n);return{type:"Feature",geometry:p=(new o.io.GeoJSONWriter).write(p),properties:e.properties}}}}]);

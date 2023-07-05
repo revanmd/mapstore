@@ -1,0 +1,33 @@
+<dataStore>
+  <id>DataStoreInfoImpl--706de78b:183cb8691d3:-7fe5</id>
+  <name>peta_status_p</name>
+  <type>MySQL</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl--706de78b:183cb8691d3:-7ffe</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="Evictor run periodicity">300</entry>
+    <entry key="fetch size">1000</entry>
+    <entry key="Expose primary keys">false</entry>
+    <entry key="validate connections">true</entry>
+    <entry key="Connection timeout">20</entry>
+    <entry key="Batch insert size">1</entry>
+    <entry key="database">ifri</entry>
+    <entry key="port">3306</entry>
+    <entry key="passwd">crypt1:LxJH6BWjnWdpvKBrRMkqquQViysjn/e0</entry>
+    <entry key="storage engine">MyISAM</entry>
+    <entry key="min connections">1</entry>
+    <entry key="dbtype">mysql</entry>
+    <entry key="host">localhost</entry>
+    <entry key="namespace">ifri</entry>
+    <entry key="max connections">10</entry>
+    <entry key="Evictor tests per run">3</entry>
+    <entry key="Test while idle">true</entry>
+    <entry key="user">ifri</entry>
+    <entry key="Max connection idle time">300</entry>
+  </connectionParameters>
+  <__default>false</__default>
+  <dateCreated>2022-10-12 09:43:55.422 UTC</dateCreated>
+  <dateModified>2022-10-12 09:43:56.508 UTC</dateModified>
+</dataStore>

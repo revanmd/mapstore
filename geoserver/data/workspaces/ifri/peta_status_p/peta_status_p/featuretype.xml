@@ -1,0 +1,46 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--706de78b:183cb8691d3:-7fe4</id>
+  <name>peta_status_p</name>
+  <nativeName>peta_status_p</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--706de78b:183cb8691d3:-7ffd</id>
+  </namespace>
+  <title>peta_status_p</title>
+  <keywords>
+    <string>features</string>
+    <string>peta_status_p</string>
+  </keywords>
+  <srs>EPSG:4326</srs>
+  <nativeBoundingBox>
+    <minx>107.6452267754</minx>
+    <maxx>111.061833764</maxx>
+    <miny>-7.8066373543</miny>
+    <maxy>-6.336444285</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>107.6452267754</minx>
+    <maxx>111.061833764</maxx>
+    <miny>-7.8066373543</miny>
+    <maxy>-6.336444285</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--706de78b:183cb8691d3:-7fe5</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

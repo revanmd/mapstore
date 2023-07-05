@@ -1,0 +1,25 @@
+<layer>
+  <name>peta_status_k</name>
+  <id>LayerInfoImpl--706de78b:183cb8691d3:-7fe6</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--706de78b:183cb8691d3:-7fe0</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl--706de78b:183cb8691d3:-7fe0</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--706de78b:183cb8691d3:-7fdf</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--706de78b:183cb8691d3:-7fe7</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-10-12 09:43:00.834 UTC</dateCreated>
+  <dateModified>2022-11-08 05:17:20.703 UTC</dateModified>
+</layer>

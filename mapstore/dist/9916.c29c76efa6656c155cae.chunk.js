@@ -1,0 +1,1 @@
+(self.webpackChunkmapstore2=self.webpackChunkmapstore2||[]).push([[9916],{729916:(e,s,a)=>{"use strict";a.r(s),a.d(s,{default:()=>u});var t=a(484922),p=a(379958),r=a.n(p);const u=(0,t.Z)(r())}}]);

@@ -1,0 +1,24 @@
+<dataStore>
+  <id>DataStoreInfoImpl--1a65d34c:183e0340c0a:-16d1</id>
+  <name>Arean Penelitian Ortho 1 Subang</name>
+  <type>Shapefile</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl--706de78b:183cb8691d3:-7ffe</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="charset">ISO-8859-1</entry>
+    <entry key="filetype">shapefile</entry>
+    <entry key="create spatial index">true</entry>
+    <entry key="memory mapped buffer">false</entry>
+    <entry key="timezone">Asia/Jakarta</entry>
+    <entry key="enable spatial index">true</entry>
+    <entry key="namespace">ifri</entry>
+    <entry key="cache and reuse memory maps">true</entry>
+    <entry key="skipScan">true</entry>
+    <entry key="url">file:///var/www/html/ifri/vektor/clip_vektor_penelitian.shp</entry>
+    <entry key="fstype">shape</entry>
+  </connectionParameters>
+  <__default>false</__default>
+  <dateCreated>2022-10-16 09:53:15.298 UTC</dateCreated>
+</dataStore>

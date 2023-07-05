@@ -1,0 +1,16 @@
+<layer>
+  <name>202208282138500.subang_ortho0_composite_21cm</name>
+  <id>LayerInfoImpl--706de78b:183cb8691d3:-7ff5</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe2</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl--706de78b:183cb8691d3:-7ff6</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-10-12 09:36:37.827 UTC</dateCreated>
+</layer>
